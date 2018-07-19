@@ -10,3 +10,4 @@ Masuk kedalam directiory repository ini
 ```
 $ ansible-playbook playbook.yml  -i 'file ansible host'
 ```
+* Jangan lupa untuk menentukan host yang akan di install lampp
